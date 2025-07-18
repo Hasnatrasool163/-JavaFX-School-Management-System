@@ -25,9 +25,9 @@ A fully-featured **School Management System** built using **JavaFX** and **SQLit
 ## 🖼️ Screenshots
 
 
-![Dashboard](screenshots/dashboard.png)
-![Student Management](screenshots/student-management.png)
-![Attedance Section](screenshots/attendance.png)
+[Dashboard](screenshots/dashboard.png)
+[Student Management](screenshots/student-management.png)
+[Attedance Section](screenshots/attendance.png)
 ---
 
 ## 📞 Contact
